@@ -32,4 +32,4 @@ npm install
 
 4º ejecutar el proyecto
 ################################################################
-nodemon ./src/server.js
+node --watch ./src/server.js
