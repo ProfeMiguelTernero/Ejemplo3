@@ -22,9 +22,9 @@ CREATE TABLE IF NOT EXISTS usuarios (
     fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     activo boolean
 );
-2º Clonar el repositorio Ejemplo2 en local 
+2º Clonar el repositorio Ejemplo3 en local 
 ##################################################################
-git clone https://github.com/ProfeMiguelTernero/Ejemplo2
+git clone https://github.com/ProfeMiguelTernero/Ejemplo3
 
 3º Abrir con visual estudio code y descargar los modulos.
 ###############################################################
