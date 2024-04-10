@@ -33,3 +33,7 @@ npm install
 4º ejecutar el proyecto
 ################################################################
 node --watch ./src/server.js
+
+Error en BD
+##############################################
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'contraseña';
